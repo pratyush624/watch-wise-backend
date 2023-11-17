@@ -1,0 +1,15 @@
+{
+  "name": "watch-wise-backend",
+  "version": "1.0.0",
+  "description": "A platform where people can consume and upload their video , user can subscribe , like and comment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Pratyush",
+  "license": "ISC"
+}
